@@ -33,12 +33,12 @@
         "content": "<div class='content'>five</div>"
       },
        {
-        "id": "six",
-        "sizeX": 5,
-        "sizeY": 2,
-        "row": 1,
-        "col": 0,
-        "content": "chart"
+        ":id": "six",
+        ":sizeX": 5,
+        ":sizeY": 2,
+        ":row": 1,
+        ":col": 0,
+        ":content": "chart"
       }
   ]
 }
