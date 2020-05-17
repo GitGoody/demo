@@ -1,26 +1,28 @@
-[
-  {
-    "id": "three",
-    "sizeX": 1,
-    "sizeY": 1,
-    "row": 0,
-    "col": 3,
-    "content": "<div class='content'>new</div>"
-  },
-  {
-    "id": "four",
-    "sizeX": 1,
-    "sizeY": 1,
-    "row": 1,
-    "col": 0,
-    "content": "<div class='content'>another</div>"
-  },
-  {
-    "id": "five",
-    "sizeX": 1,
-    "sizeY": 1,
-    "row": 1,
-    "col": 1,
-    "content": "<div class='content'>what da</div>"
-  }
-]
+{
+  "posts":[
+      {
+        "id": "three",
+        "sizeX": 1,
+        "sizeY": 1,
+        "row": 0,
+        "col": 3,
+        "content": "<div class='content'>new</div>"
+      },
+      {
+        "id": "four",
+        "sizeX": 1,
+        "sizeY": 1,
+        "row": 1,
+        "col": 0,
+        "content": "<div class='content'>another</div>"
+      },
+      {
+        "id": "five",
+        "sizeX": 1,
+        "sizeY": 1,
+        "row": 1,
+        "col": 1,
+        "content": "<div class='content'>what da</div>"
+      }
+  ]
+}
