@@ -43,16 +43,16 @@
   ],
   "content":[
       {
-          "_uid": "BUY6Drn9e1",
-          "component": "PieChart",
-          "row": 0,
-          "col": 0,
+          "_uid" : "BUY6Drn9e1",
+          "component" : "PieChart",
+          "row" : 0,
+          "col" : 0,
           "sizex" : 2,
           "sizey" : 2
       },
       {
           "_uid" :"buy6drn9e2",
-          "component": "PieChart",
+          "component" : "PieChart",
           "row" : 0,
           "col" : 2,
           "sizex" : 4,
