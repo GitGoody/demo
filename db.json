@@ -49,10 +49,10 @@
           "col": 0,
           "sizex" : 2,
           "sizey" : 2
-      }
-      ,{
+      },
+      {
           "_uid" :"buy6drn9e2",
-          "component": "MyChart",
+          "component": "PieChart",
           "row" : 0,
           "col" : 2,
           "sizex" : 4,
