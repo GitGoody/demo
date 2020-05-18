@@ -52,7 +52,7 @@
       },
       {
           "_uid" :"buy6drn9e2",
-          "component" : "PieChart",
+          "component" : "MyChart",
           "row" : 0,
           "col" : 2,
           "sizex" : 4,
