@@ -38,7 +38,7 @@
         "sizeY": 2,
         "row": 1,
         "col": 0,
-        ":content": "chart"
+        "content": "chart"
       }
   ],
   "content":[
@@ -47,16 +47,16 @@
           "component": "PieChart",
           "row": 0,
           "col": 0,
-          "sizex": 2,
-          "sizey": 2
+          "sizex" : 2,
+          "sizey" : 2
       }
       ,{
-          "_uid:" "buy6drn9e2",
+          "_uid" :"buy6drn9e2",
           "component": "MyChart",
-          "row": 0,
-          "col": 2,
-          "sizex": 4,
-          "sizey": 2
+          "row" : 0,
+          "col" : 2,
+          "sizex" : 4,
+          "sizey" : 2
       }
   ]
 }
