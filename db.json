@@ -16,7 +16,7 @@
           "sizex": 4,
           "sizey": 2,
           "dataset":{
-              "seriesData": [
+             "seriesData": [
                 { "month": "Jan", "sales": 35 }, { "month": "Feb", "sales": 28 },
                 { "month": "Mar", "sales": 34 }, { "month": "Apr", "sales": 32 },
                 { "month": "May", "sales": 40 }, { "month": "Jun", "sales": 32 },
