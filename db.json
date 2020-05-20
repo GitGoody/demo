@@ -1,46 +1,4 @@
 {
-  "posts":[
-          {
-        "id": "two",
-        "sizeX": 1,
-        "sizeY": 1,
-        "row": 0,
-        "col": 1,
-        "content": "<div class='content'>two</div>"
-      },
-      {
-        "id": "three",
-        "sizeX": 1,
-        "sizeY": 1,
-        "row": 0,
-        "col": 2,
-        "content": "<div class='content'>three</div>"
-      },
-      {
-        "id": "four",
-        "sizeX": 1,
-        "sizeY": 1,
-        "row": 0,
-        "col": 3,
-        "content": "<div class='content'>four</div>"
-      },
-      {
-        "id": "five",
-        "sizeX": 1,
-        "sizeY": 1,
-        "row": 0,
-        "col": 4,
-        "content": "<div class='content'>five</div>"
-      },
-       {
-        "id": "six",
-        "sizeX": 5,
-        "sizeY": 2,
-        "row": 1,
-        "col": 0,
-        "content": "chart"
-      }
-  ],
   "content":[
       {
           "_uid": "BUY6Drn9e1",
@@ -48,7 +6,20 @@
           "row": 0,
           "col": 0,
           "sizex": 2,
-          "sizey": 2
+          "sizey": 2,
+          "dataset":{
+              "seriesData": [
+                { "month": "Jan", "sales": 35 }, { "month": "Feb", "sales": 28 },
+                { "month": "Mar", "sale": 34 }, { "month": "Apr", "sales": 32 },
+                { "month": "May", "sales": 40 }, { "month": "Jun", "sales": 32 },
+                { "month": "Jul", "sales": 35 }, { "month": "Aug", "sales": 55 },
+                { "month": "Sep", "sales": 38 }, { "month": "Oct", "sales": 30 },
+                { "month": "Nov", "sales": 25 }, { "month": "Dec", "sales": 32 }
+               ],
+              "primaryXAxis": {
+                 "valueType": "Category"
+              }
+          }
       },
        {
           "_uid": "BUY6Drn9e3",
