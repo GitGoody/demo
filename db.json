@@ -1,7 +1,7 @@
 { 
   "dashboard":{
-        "components": "PieChart,MyChart",
-        "content":[
+        "widgets": "PieChart,MyChart",
+        "components":[
           {
               "_uid": "BUY6Drn9e1",
               "component": "PieChart",
