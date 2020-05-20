@@ -13,7 +13,7 @@
                 "seriesData":  [
                     { "x": "Jan", "y": 12.5, "text": "January" },
                     { "x": "Feb", "y": 25, "text": "February" },
-                    { "x": "Mar", "y": 50, "text": "March" },
+                    { "x": "Mar", "y": 50, "text": "March" }
                  ]
               }
           },
