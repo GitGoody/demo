@@ -6,6 +6,14 @@
           "row": 0,
           "col": 0,
           "sizex": 2,
+          "sizey": 2
+      },
+       {
+          "_uid": "BUY6Drn9e3",
+          "component": "MyChart",
+          "row": 0,
+          "col": 2,
+          "sizex": 4,
           "sizey": 2,
           "dataset":{
               "seriesData": [
@@ -20,14 +28,6 @@
                  "valueType": "Category"
               }
           }
-      },
-       {
-          "_uid": "BUY6Drn9e3",
-          "component": "MyChart",
-          "row": 0,
-          "col": 2,
-          "sizex": 4,
-          "sizey": 2
       }
   ]
 }
