@@ -1,4 +1,6 @@
-{
+{ "dashboard":{
+    "components": "PieChart,MyChart"
+  },
   "content":[
       {
           "_uid": "BUY6Drn9e1",
