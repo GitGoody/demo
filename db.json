@@ -11,7 +11,7 @@
               "sizey": 2,
               "dataset":{
                 "seriesData":  [
-                    { "x": "Jan", "y": 12.5, "text": "January" },
+                    { "x": "Jan", "y": 12, "text": "January" },
                     { "x": "Feb", "y": 25, "text": "February" },
                     { "x": "Mar", "y": 50, "text": "March" }
                  ]
