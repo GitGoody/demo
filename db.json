@@ -8,7 +8,16 @@
               "row": 0,
               "col": 0,
               "sizex": 2,
-              "sizey": 2
+              "sizey": 2,
+              "dataset":{
+                seriesData:  [
+                    { 'x': 'Jan', y: 12.5, text: 'January' },
+                    { 'x': 'Feb', y: 25, text: 'February' },
+                    { 'x': 'Mar', y: 50, text: 'March' },
+                 ]
+                
+                
+              }
           },
            {
               "_uid": "BUY6Drn9e3",
