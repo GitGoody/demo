@@ -43,13 +43,13 @@
                                  "xname": "month",
                                  "yname": "sales",
                                  "marker": {
-                                   "dataLabel":{ "visible":"true",
-                                                "border":{"width":2,"color":"red"}
-                                               },
                                    "visible":"true",
                                    "shape": "Diamond",
                                    "width": 10,
-                                   "height": 10
+                                   "height": 10,
+                                   "dataLabel":{ "visible":"true",
+                                                "border":{"width":2,"color":"red"}
+                                               }
                                  },
                                  "data":
                                        [
