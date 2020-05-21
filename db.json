@@ -38,7 +38,7 @@
                                  "type": "Line",
                                  "xname": "month",
                                  "yname": "sales",
-                                 "series":
+                                 "data":
                                        [
                                         { "month": "Jan", "sales": 35 }, { "month": "Feb", "sales": 28 },
                                         { "month": "Mar", "sales": 34 }, { "month": "Apr", "sales": 32 },
@@ -52,7 +52,7 @@
                                  "type": "Line",
                                  "xname": "month",
                                  "yname": "sales",
-                                 "series":
+                                 "data":
                                        [
                                         { "month": "Jan", "sales": 25 }, { "month": "Feb", "sales": 38 },
                                         { "month": "Mar", "sales": 24 }, { "month": "Apr", "sales": 35 },
