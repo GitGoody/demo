@@ -31,10 +31,8 @@
 
               "dataset":{
                 "primaryXAxis": {
-                         "valueType": "Category",
-                          "labelFormat": "y",
-                          "intervalType": "Months",
-                          "edgeLabelPlacement": "Shift"
+                         "valueType": "Category"
+
                       },
                 "primaryYAxis": {
 
@@ -46,6 +44,7 @@
                                  "yname": "sales",
                                  "marker": {
                                    "dataLabel":{ "visible":"true",
+                                                "border":{"width":2,"color":"red"},
                                                  "width": 10,
                                                   "height": 10,
                                                   "shape": "Diamond"
