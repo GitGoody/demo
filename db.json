@@ -46,9 +46,10 @@
                                    "dataLabel":{ "visible":"true",
                                                 "border":{"width":2,"color":"red"},
                                                  "width": 10,
-                                                  "height": 10,
-                                                  "shape": "Diamond"
-                                               }
+                                                  "height": 10
+                                                  
+                                               },
+                                   "shape": "Diamond"
                                  },
                                  "data":
                                        [
