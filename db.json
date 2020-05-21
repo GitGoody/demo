@@ -45,7 +45,7 @@
                                  "xname": "month",
                                  "yname": "sales",
                                  "marker": {
-                                   "datalabel":{ "visible":"true"}
+                                   "dataLabel":{ "visible":"true"}
                                  },
                                  "data":
                                        [
