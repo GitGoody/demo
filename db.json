@@ -31,7 +31,10 @@
 
               "dataset":{
                 "primaryXAxis": {
-                         "valueType": "Category"
+                         "valueType": "Category",
+                          "labelFormat": "y",
+                          "intervalType": "Months",
+                          "edgeLabelPlacement": "Shift"
                       },
                  "seriesData": [
                              {
