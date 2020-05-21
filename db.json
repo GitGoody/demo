@@ -39,7 +39,7 @@
                       },
                  "seriesData": [
                              {
-                                 
+                                 "name":"Roger",
                                  "type": "Line",
                                  "xname": "month",
                                  "yname": "sales",
@@ -68,7 +68,7 @@
                                        ]  
                              },
                              {
-                                
+                                "name":"Brenda",
                                  "type": "Line",
                                  "xname": "month",
                                  "yname": "sales",
