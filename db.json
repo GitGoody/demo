@@ -36,6 +36,9 @@
                           "intervalType": "Months",
                           "edgeLabelPlacement": "Shift"
                       },
+                "primaryYAxis": {
+
+                      },
                  "seriesData": [
                              {
                                  "type": "Line",
