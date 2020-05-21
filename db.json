@@ -28,33 +28,34 @@
               "col": 2,
               "sizex": 4,
               "sizey": 2,
-              "type": "Line",
-              "xname": "month",
-              "yname": "sales",
+
               "dataset":{
                  "seriesData": {
-                   "Roger":
-                   [
-                    { "month": "Jan", "sales": 35 }, { "month": "Feb", "sales": 28 },
-                    { "month": "Mar", "sales": 34 }, { "month": "Apr", "sales": 32 },
-                    { "month": "May", "sales": 40 }, { "month": "Jun", "sales": 32 },
-                    { "month": "Jul", "sales": 35 }, { "month": "Aug", "sales": 55 },
-                    { "month": "Sep", "sales": 38 }, { "month": "Oct", "sales": 30 },
-                    { "month": "Nov", "sales": 25 }, { "month": "Dec", "sales": 32 }
-                   ],
-                   "Betty":
-                   [
-                    { "month": "Jan", "sales": 25 }, { "month": "Feb", "sales": 38 },
-                    { "month": "Mar", "sales": 24 }, { "month": "Apr", "sales": 35 },
-                    { "month": "May", "sales": 30 }, { "month": "Jun", "sales": 42 },
-                    { "month": "Jul", "sales": 25 }, { "month": "Aug", "sales": 25 },
-                    { "month": "Sep", "sales": 28 }, { "month": "Oct", "sales": 40 },
-                    { "month": "Nov", "sales": 15 }, { "month": "Dec", "sales": 52 }
-                   ]
-                 },
-                  "primaryXAxis": {
-                     "valueType": "Category"
-                  }
+                       "type": "Line",
+                       "xname": "month",
+                       "yname": "sales",
+                       "Roger":
+                       [
+                        { "month": "Jan", "sales": 35 }, { "month": "Feb", "sales": 28 },
+                        { "month": "Mar", "sales": 34 }, { "month": "Apr", "sales": 32 },
+                        { "month": "May", "sales": 40 }, { "month": "Jun", "sales": 32 },
+                        { "month": "Jul", "sales": 35 }, { "month": "Aug", "sales": 55 },
+                        { "month": "Sep", "sales": 38 }, { "month": "Oct", "sales": 30 },
+                        { "month": "Nov", "sales": 25 }, { "month": "Dec", "sales": 32 }
+                       ],
+                       "Betty":
+                       [
+                        { "month": "Jan", "sales": 25 }, { "month": "Feb", "sales": 38 },
+                        { "month": "Mar", "sales": 24 }, { "month": "Apr", "sales": 35 },
+                        { "month": "May", "sales": 30 }, { "month": "Jun", "sales": 42 },
+                        { "month": "Jul", "sales": 25 }, { "month": "Aug", "sales": 25 },
+                        { "month": "Sep", "sales": 28 }, { "month": "Oct", "sales": 40 },
+                        { "month": "Nov", "sales": 15 }, { "month": "Dec", "sales": 52 }
+                       ]
+                     },
+                      "primaryXAxis": {
+                         "valueType": "Category"
+                      }
               }
           }
         ]
