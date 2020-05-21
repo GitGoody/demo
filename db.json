@@ -68,7 +68,7 @@
                                        ]  
                              },
                              {
-                                  "name":"Brenda",
+                                 "name":"Brenda",
                                  "type": "Line",
                                  "xname": "month",
                                  "yname": "sales",
