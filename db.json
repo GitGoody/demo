@@ -44,6 +44,9 @@
                                  "type": "Line",
                                  "xname": "month",
                                  "yname": "sales",
+                                 "marker": {
+                                   "datalabel":{ "visible:true"}
+                                 },
                                  "data":
                                        [
                                         { "month": "Jan", "sales": 35 }, { "month": "Feb", "sales": 28 },
