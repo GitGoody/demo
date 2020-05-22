@@ -57,6 +57,7 @@
                                   "position":"Top"
                                   
                                 },
+                                 "tooltip" : {enable: true},
                                  "data":
                                        [
                                         { "month": "Jan", "sales": 35 }, { "month": "Feb", "sales": 28 },
