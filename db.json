@@ -38,6 +38,10 @@
 
                       },
                 "tooltip" : {"enable": "true"},
+                "legendSetting" :{
+                  "visible":"true",
+                  "position":"Top"
+                },
                 "seriesData": [
                              {
                                  "name":"Roger",
@@ -53,11 +57,7 @@
                                                 "border":{"width":2,"color":"red"}
                                                }
                                  },
-                                "legendSetting":{
-                                  "visible":"true",
-                                  "position":"Top"
-                                  
-                                },
+
                                  "data":
                                        [
                                         { "month": "Jan", "sales": 35 }, { "month": "Feb", "sales": 28 },
