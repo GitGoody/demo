@@ -3,7 +3,7 @@
           "dashid": "defaultLayout",
           "spacing": [10, 10],
           "count": 8,
-          "columns" 6,
+          "columns": 6,
           "allowResizing": "true",
     
         "components":[
